@@ -1,4 +1,4 @@
 <?php
-    echo "solucionando conflictos"
+    echo "solucionando conflicto de ramas paralelas modificando el mismo archivo"
 
 ?>
