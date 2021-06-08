@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-<?php
-    echo "solucionando conflicto de ramas paralelas modificando el mismo archivo"
 
-?>
-=======
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,4 +11,4 @@
     
 </body>
 </html>
->>>>>>> actualizando
+
