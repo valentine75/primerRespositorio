@@ -15,7 +15,7 @@
       </ol>
     </header>
     <section>
-        <p>primer parrafo</p>
+        <p> primer parrafo </p>
     </section>
 </body>
 </html>
