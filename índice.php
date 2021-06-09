@@ -13,7 +13,10 @@
       <li> <a href="#">Quines Somos</a> </li>
       <li> <a href="#">Contacto</a> </li>
       </ol>
-</header>
+    </header>
+    <section>
+        <p>primer parrafo</p>
+    </section>
 </body>
 </html>
 
