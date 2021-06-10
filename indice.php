@@ -6,4 +6,8 @@
       <li> <a href="#">Ayuda</a> </li>
       <li> <a href="#">Preguntas</a> </li>
       </ol>
+
+      <section>
+      <p>algunos parrafos</p>
+      </section>
 </header>
