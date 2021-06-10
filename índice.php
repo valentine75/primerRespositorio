@@ -18,6 +18,8 @@
     </header>
     <section>
         <p> primer parrafo </p>
+        <p> segundo parrafo </p>
+        <p> tercero parrafo </p>
     </section>
 </body>
 </html>
