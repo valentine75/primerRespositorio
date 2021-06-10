@@ -16,6 +16,13 @@
       <li> <a href="#">Preguntas</a> </li>
       </ol>
     </header>
+    <h2>sectios usada</h2>
+    <section>
+        <p> primer parrafo </p>
+        <p> segundo parrafo </p>
+        <p> tercero parrafo </p>
+    </section>
+
     <section>
         <p> primer parrafo </p>
         <p> segundo parrafo </p>
