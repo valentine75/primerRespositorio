@@ -15,7 +15,10 @@
       <li> <a href="#">Ayuda</a> </li>
       <li> <a href="#">Preguntas</a> </li>
       </ol>
-</header>
+    </header>
+    <section>
+        <p> primer parrafo </p>
+    </section>
 </body>
 </html>
 
